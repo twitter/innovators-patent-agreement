@@ -22,7 +22,7 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     (a) against an Entity that has filed, maintained, threatened, or voluntarily participated in an intellectual property lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors;
 
-    (b) against an Entity that has filed, maintained, or voluntarily participated in a patent infringement lawsuit against another in the past ten years, so long as the Entity has not instituted the patent infringement lawsuit defensively in response to a patent litigation threat against the Entity; or
+    (b) against an Entity that has filed, maintained, or voluntarily participated in a patent infringement lawsuit against another in the past ten years, so long as the Entity has not instituted the patent infringement lawsuit for a Defensive Purpose as defined by this agreement; or
 
     (c) otherwise to deter a patent litigation threat against Assignee or Assignee’s users, affiliates, customers, suppliers, or distributors.
 
