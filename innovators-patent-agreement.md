@@ -16,7 +16,8 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     Filed on:
 
-    including (a) any and all inventions and improvements (“Subject Matter”) disclosed therein, (b) all right of priority in the above application(s) and in any underlying provisional or foreign application, (c) all provisional, utility, divisional, continuation, substitute, renewal, reissue, and other applications related thereto which have been or may be filed in the United States or elsewhere in the world, and (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.  
+    including (a) any and all inventions and improvements (“Subject Matter”) disclosed therein, (b) all right of priority in the above application(s) and in any underlying provisional or foreign application, (c) all provisional, utility, divisional, continuation, substitute, renewal, reissue, and other applications related thereto which have been or may be filed in the United States or elsewhere in the world, and (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights, and
+    subject to, and under the conditions of, the entirety of this Agreement, specifically the provisions of Paragraph 2.
 
 2.  Company, on behalf of itself and its successors, transferees, and assignees (collectively “Assignee”), agrees not to assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose.  An assertion of claims of the Patents shall be considered for a “Defensive Purpose” if the claims are asserted:
 
@@ -34,6 +35,24 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
 4. Company hereby grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to the Inventors, along with the right to sublicense as further described herein, solely so as to enforce the promises made by Assignee in paragraph 2.  The Inventors’ right to sublicense is explicitly limited herein to those rights necessary to enforce the promises made by Assignee in paragraph 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of paragraph 2, the Inventors, individually or jointly, may grant a patent sublicense to the entity under the Patents, the scope of the sublicense being limited herein to those rights necessary to enforce the promises made in paragraph 2.  Any sublicense granted by the Inventors under this paragraph must be without additional consideration or threat; otherwise, the sublicense will be considered void ab initio.  This license to the Inventors is not assignable but may pass to the heirs of an inventor in the case that the inventor is deceased.  
   
+5. Breach of Paragraph 2
+
+    In the event that Company seeks to use Subject Matter, or Patents related to Subject Matter contrary to the provision of Paragraph 2:
+    
+        (a) all rights to Subject Matter and their related Patents shall revert ownership to the original Inventors
+        
+        (b) License to use Subject Matter by Company or Assignee shall terminate
+
+6. This Agreement superscedes other agreements with regards to Subject Matter
+
+7. Sale or other transfer of license, Patents or other rights related to Subject Matter shall be subject to this Agreement.
+
   
   
 _____________________________ Inventor
+
+
+
+
+_____________________________ Company
+
