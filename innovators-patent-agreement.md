@@ -16,7 +16,7 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     Filed on:
 
-    including (a) any and all inventions and improvements (“Subject Matter”) disclosed therein, (b) all right of priority in the above application(s) and in any underlying provisional or foreign application, (c) all provisional, utility, divisional, continuation, substitute, renewal, reissue, and other applications related thereto which have been or may be filed in the United States or elsewhere in the world, and (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.  
+    including (a) any and all inventions and improvements (“Subject Matter”) disclosed therein; (b) all right of priority in the above application(s) and in any underlying provisional or foreign application; (c) all provisional, utility, divisional, continuation, substitute, renewal, reissue, and other applications related thereto which have been or may be filed in the United States or elsewhere in the world; and (d) all patents (“Patents”), including reissues and reexaminations, which may be granted on any of the above applications, together with all rights to recover damages for infringement, including infringement of provisional rights.  
 
 2.  Company, on behalf of itself and its successors, transferees, and assignees (collectively “Assignee”), agrees not to assert any claims of any Patents which may be granted on any of the above applications unless asserted for a Defensive Purpose.  An assertion of claims of the Patents shall be considered for a “Defensive Purpose” if the claims are asserted:
 
