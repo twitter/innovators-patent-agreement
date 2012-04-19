@@ -36,6 +36,16 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
 4. Company hereby grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to the Inventors, along with the right to sublicense as further described herein, solely so as to enforce the promises made by Assignee in paragraph 2.  The Inventors’ right to sublicense is explicitly limited herein to those rights necessary to enforce the promises made by Assignee in paragraph 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of paragraph 2, the Inventors, individually or jointly, may grant a patent sublicense to the entity under the Patents, the scope of the sublicense being limited herein to those rights necessary to enforce the promises made in paragraph 2.  Any sublicense granted by the Inventors under this paragraph must be without additional consideration or threat; otherwise, the sublicense will be considered void ab initio.  This license to the Inventors is not assignable but may pass to the heirs of an inventor in the case that the inventor is deceased.  
   
+5. Breach of Paragraph 2
+
+    In the event that Company seeks to use Subject Matter, or Patents related to Subject Matter contrary to the provision of Paragraph 2:
+    
+        (a) all rights to Subject Matter and their related Patents shall revert ownership to the original Inventors
+        
+        (b) License to use Subject Matter by Company or Assignee shall terminate
+
+6. This Agreement superscedes other agreements with regards to Subject Matter
+
   
   
 _____________________________ Inventor
