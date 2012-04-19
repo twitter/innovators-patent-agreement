@@ -1,4 +1,4 @@
-## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.95
+## INNOVATOR’s PATENT AGREEMENT (IPA), Version 0.96
 
 WHEREAS the person(s) named below (collectively referred to as “Inventors”) have invented certain patentable subject matter which they desire to assign to the below-identified Company;
 
@@ -29,6 +29,8 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
     If Assignee needs to assert any of the Patent claims against any entity for other than a Defensive Purpose, Assignees must obtain prior written permission from all of the Inventors without additional consideration or threat.  An “Entity” includes any related entities, where the entities are related by either ownership, control, financial interest, or common purpose.   
 
     Assignee acknowledges and agrees that the above promises are intended to run with the Patents and are binding on any future owner, assignee or exclusive licensee who has been given the right to enforce any claims of the Patents against third parties.  Assignee covenants with Inventors that any assignment or transfer of its right, title, and interest herein will be conveyed with the above promises as an encumbrance.  
+    
+    Assignee acknowledges and agrees that the above promises are intended to benefit third parties, except in the case of assertion as described in (a)-(c).
 
 3. Inventors agree that Assignee may apply for and receive patents for Subject Matter in Assignee’s own name.  Inventors agree, when requested, and without further consideration, to execute all papers necessary to fully secure to Assignee the rights, titles and interests herein conveyed.  Inventors represent that Inventors have the rights, titles, and interests to convey as set forth herein; and Inventors covenant with Assignee that Inventors have not made and will not make any assignment, grant, mortgage, license, or other agreement affecting the rights, titles, and interests herein conveyed.
 
