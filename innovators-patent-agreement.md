@@ -26,7 +26,7 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     (c) otherwise to deter a patent litigation threat against Assignee or Assignee’s users, affiliates, customers, suppliers, or distributors.
 
-    If Assignee needs to assert any of the Patent claims against any entity for other than a Defensive Purpose, Assignees must obtain prior written permission from all of the Inventors without additional consideration or threat.  An “Entity” includes any related entities, where the entities are related by either ownership, control, financial interest, or common purpose.   
+    If Assignee needs to assert any of the Patent claims against any entity for other than a Defensive Purpose, Assignee must obtain prior written permission from all of the Inventors, or in the case of any Inventor's death, the heir of the Inventor, without additional consideration or threat.  An “Entity” includes any related entities, where the entities are related by either ownership, control, financial interest, or common purpose.   
 
     Assignee acknowledges and agrees that the above promises are intended to run with the Patents and are binding on any future owner, assignee or exclusive licensee who has been given the right to enforce any claims of the Patents against third parties.  Assignee covenants with Inventors that any assignment or transfer of its right, title, and interest herein will be conveyed with the above promises as an encumbrance.  
     
