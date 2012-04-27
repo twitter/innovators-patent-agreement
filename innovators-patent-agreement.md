@@ -39,6 +39,15 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
 6. Sale or other transfer of license, Patents or other rights related to Subject Matter shall be subject to this Agreement.
 
+7. Breach of Paragraph 2
+
+    In the event that Company seeks to use Subject Matter, or Patents related to Subject Matter contrary to the provision of Paragraph 2:
+    
+        (a) all rights to Subject Matter and their related Patents shall revert ownership to the original Inventors
+        
+        (b) License to use Subject Matter by Company or Assignee shall terminate
+  
+  
 _____________________________ Inventor
 
 
