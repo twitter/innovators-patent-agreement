@@ -34,21 +34,11 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 3. Inventors agree that Assignee may apply for and receive patents for Subject Matter in Assignee’s own name.  Inventors agree, when requested, and without further consideration, to execute all papers necessary to fully secure to Assignee the rights, titles and interests herein conveyed.  Inventors represent that Inventors have the rights, titles, and interests to convey as set forth herein, and covenants with Assignee that Inventors have not made and will not make any assignment, grant, mortgage, license, or other agreement affecting the rights, titles, and interests herein conveyed.
 
 4. Company hereby grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to the Inventors, along with the right to sublicense as further described herein, solely so as to enforce the promises made by Assignee in paragraph 2.  The Inventors’ right to sublicense is explicitly limited herein to those rights necessary to enforce the promises made by Assignee in paragraph 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of paragraph 2, the Inventors, individually or jointly, may grant a patent sublicense to the entity under the Patents, the scope of the sublicense being limited herein to those rights necessary to enforce the promises made in paragraph 2.  Any sublicense granted by the Inventors under this paragraph must be without additional consideration or threat; otherwise, the sublicense will be considered void ab initio.  This license to the Inventors is not assignable but may pass to the heirs of an inventor in the case that the inventor is deceased.  
-  
-5. Breach of Paragraph 2
 
-    In the event that Company seeks to use Subject Matter, or Patents related to Subject Matter contrary to the provision of Paragraph 2:
-    
-        (a) all rights to Subject Matter and their related Patents shall revert ownership to the original Inventors
-        
-        (b) License to use Subject Matter by Company or Assignee shall terminate
+5. This Agreement superscedes other agreements with regards to Subject Matter
 
-6. This Agreement superscedes other agreements with regards to Subject Matter
+6. Sale or other transfer of license, Patents or other rights related to Subject Matter shall be subject to this Agreement.
 
-7. Sale or other transfer of license, Patents or other rights related to Subject Matter shall be subject to this Agreement.
-
-  
-  
 _____________________________ Inventor
 
 
