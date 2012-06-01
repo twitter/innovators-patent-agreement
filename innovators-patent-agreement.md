@@ -22,7 +22,7 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
     (a) against an Entity that has filed, maintained, threatened, or voluntarily participated in an intellectual property lawsuit against Assignee or any of Assignee’s users, affiliates, customers, suppliers, or distributors;
 
-    (b) against an Entity that has filed, maintained, or voluntarily participated in a patent infringement lawsuit against another in the past ten years, so long as the Entity has not instituted the patent infringement lawsuit defensively in response to a patent litigation threat against the Entity; or
+    (b) against an Entity that has filed, maintained, or voluntarily participated in a patent infringement lawsuit against another in the past ten years, so long as the Entity has not instituted the patent infringement lawsuit for a Defensive Purpose in response to a patent litigation threat against the Entity; or
 
     (c) otherwise to deter a patent litigation threat against Assignee or Assignee’s users, affiliates, customers, suppliers, or distributors.
 
@@ -34,7 +34,9 @@ NOW, THEREFORE, for good and valuable consideration, the receipt of which is her
 
 3. Inventors agree that Assignee may apply for and receive patents for Subject Matter in Assignee’s own name.  Inventors agree, when requested, and without further consideration, to execute all papers necessary to fully secure to Assignee the rights, titles and interests herein conveyed.  Inventors represent that Inventors have the rights, titles, and interests to convey as set forth herein; and Inventors covenant with Assignee that Inventors have not made and will not make any assignment, grant, mortgage, license, or other agreement affecting the rights, titles, and interests herein conveyed.
 
-4. Company hereby grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to the Inventors, along with the right to sublicense as further described herein, solely so as to enforce the promises made by Assignee in paragraph 2.  The Inventors’ right to sublicense is explicitly limited herein to those rights necessary to enforce the promises made by Assignee in paragraph 2.  Accordingly, if Assignee asserts any of the Patent claims against any entity in a manner that breaks the promises of paragraph 2, the Inventors, individually or jointly, may grant a patent sublicense to the entity under the Patents, the scope of the sublicense being limited herein to those rights necessary to enforce the promises made in paragraph 2.  Any sublicense granted by the Inventors under this paragraph must be without additional consideration or threat; otherwise, the sublicense will be considered void ab initio.  This license to the Inventors is not assignable but may pass to the heirs of an inventor in the case that the inventor is deceased.  
+4. Company hereby grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to the Inventors without the right to sublicense. This license to the Inventors is not assignable but may pass to the heirs of an inventor in the case that the inventor is deceased.
+
+5. In the event Assignee asserts any of the Patent claims against any entity, except in accordance with paragraph 2, the Assignee grants a perpetual, worldwide, non-exclusive, royalty-free, no-charge, irrevocable license under the Patents to any party requesting such a sublicense. Any sublicense granted under this paragraph must be without additional consideration beyond reasonable legal and other fees associated with granting the sublicense. 
   
   
   
