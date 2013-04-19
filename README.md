@@ -17,3 +17,7 @@ Better yet, feel free to contribute a pull request if you have an improvement to
 ## License
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
+
+For attribution requirements:
+
+"Innovators Patent Agreement" © 2012 Twitter, Inc, used under a Creative Commons Attribution Unported license: http://creativecommons.org/licenses/by/3.0/
