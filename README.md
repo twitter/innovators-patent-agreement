@@ -6,7 +6,7 @@ The company will not use the patents in offensive litigation without the permiss
 This control flows with the patents, so if the company sells the patents to others, 
 the assignee can only use the patents as the inventor intended.
 
-## Issues and Contributing
+### Issues and Contributing
 
 Have a contribution idea or want to discuss something? Please create an issue here on GitHub.
 
@@ -14,7 +14,7 @@ https://github.com/twitter/innovators-patent-agreement/issues
 
 Better yet, feel free to contribute a pull request if you have an improvement to the IPA.
 
-## License
+### License
 
 This work is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
 
