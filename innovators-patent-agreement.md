@@ -1,6 +1,6 @@
-### INNOVATOR’s PATENT AGREEMENT (IPA), Version 1.0
+### INNOVATOR’S PATENT AGREEMENT (IPA), Version 1.0
 
-This INNOVATOR’s PATENT AGREEMENT (“Agreement”) is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [State of Incorporation] corporation, having a place of business at Company Address (“Company”).
+This INNOVATOR’S PATENT AGREEMENT (“Agreement”) is made between the person(s) named below (collectively referred to as “Inventors”) and [COMPANY NAME], a [STATE OF INCORPORATION] corporation, having a place of business at \[COMPANY ADDRESS\] (“Company”).
 
 WHEREAS the Inventors have invented certain patentable subject matter which they desire to assign to the Company;
 
