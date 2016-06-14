@@ -32,7 +32,7 @@ After the IPA is signed, you should make sure that the document is recorded with
 
 Q. <em>How does the IPA work?</em>
 
-A. The IPA includes a commitment from your company to your employees that their patents will be used for defensive purposes and will not be used in offensive litigation without their permission. What’s more, this control flows with the patents, so if the patents were sold to others, they could only use them as the inventor intended.
+A. The IPA includes a commitment from your company to your employees that their patents will be used for defensive purposes and will not be used in offensive litigation without their explicit permission. What’s more, this control flows with the patents, so if the patents were sold to others, they could only use them as the inventor originally intended.
 
 
 Q: <em>What does “defensive purposes” mean?</em>
@@ -42,7 +42,7 @@ A: Defensive purposes means that you can defend yourself should another party tr
 
 Q: <em>How is this actually in the company’s best interest, given how litigious the patent area is?</em>
 
-A: The IPA strikes a balance here. Your company keeps the capability to use patents defensively if someone sues you, or you have the option of pursuing legal action if you have the consent of the inventor.  You do not keep the capability to seek patent licensing fees from others who have not used patents offensively.  Nor can you sell your patents to someone who will seek patent licensing fees from them.
+A: The IPA strikes a balance here. Your company keeps the capability to use patents defensively if someone sues you, or you have the option of pursuing legal action if you have the consent of the inventor.  You do not keep the capability to seek patent licensing fees from others who have not used patents offensively.  Nor can you sell your patents to someone who will seek patent licensing fees from them. 
 
 
 Q: <em>So then why bother obtaining patents at all, if you’re going to let anyone use your technology? </em>
@@ -59,12 +59,12 @@ A: We recommend that you discuss the IPA with your board of directors to underst
 
 Q: <em>What does this IPA mean for me, as an engineer/designer?</em>
 
-A: The IPA is a new way to do patent assignment that keeps some control in the hands of engineers and designers. When you assign a patent to an entity using the IPA, your patent can only be used for defensive purposes and will not be used in offensive litigation without your permission.  With the IPA, you can be assured that your patents will be used only as a shield rather than as a weapon. 
+A: The IPA is a new way to do patent assignment that keeps some control in the hands of engineers and designers. When you assign a patent to an entity using the IPA, your patent can only be used for defensive purposes and will not be used in offensive litigation without your explicit permission.  With the IPA, you can be assured that your patents will be used only as a shield rather than as a weapon. 
 
 
 Q: <em>What stops a company from simply going back on its promises to me under the IPA?</em>
 
-A: With the IPA, the inventors receive the ability to license anyone who has been improperly sued in violation of the IPA.  So, even if the company changes its mind, you have the ability to hold them accountable under the IPA.  Even if a patent monetizer purchases the patent and tries to argue that they are not bound by the restrictions of the IPA, you can protect anyone sued by the patent monetizers by licensing them in accordance with the IPA.  We believe this license will survive any transfer of the patents.  
+A: With the IPA, the inventors receive the ability to license anyone who has been improperly sued in violation of the IPA.  So, even if the company changes its mind, you have the ability to hold them accountable under the IPA.  Even if a patent monetizer purchases the patent and tries to argue that they are not bound by the restrictions of the IPA, you can protect anyone sued by the patent monetizers by licensing them in accordance with the IPA.  We believe this license will survive any transfer of the patents, depending on whether it has been agreed upon in advance.  
 
 
 Q: <em>What if I work for a company that doesn’t use the IPA?</em>
